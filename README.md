@@ -1,6 +1,5 @@
-#TopDEV-fs | Full Stack Developer
-
-Hi there! I'm a seasoned Full Stack Developer specializing in JavaScript technologies. With over five years of experience in tech, I have a strong fondness for coding scalable, dynamic, and performance-oriented web applications. 🚀
+# 💫 About Me:
+🔔 Hi there! I'm a seasoned Full Stack Developer specializing in JavaScript technologies. With over five years of experience in tech, I have a strong fondness for coding scalable, dynamic, and performance-oriented web applications. 🚀
 
 ## Core Proficiencies:
 
