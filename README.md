@@ -9,13 +9,13 @@ I'm proud of my ability to deliver meaningful solutions, whether it's revamping 
 <div align="center">
   
 ### 🌐 Front-End
-[![My Skills](https://skillicons.dev/icons?i=js,ts,angular,vue,react,next,redux,tailwindcss,sass,vite&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,vue,react,next,redux,tailwindcss,sass,vite&perline=11)](https://skillicons.dev)
 
 ### 🛠️ Back-End
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,express,spring&perline=9)](https://skillicons.dev)
 
 ### 🗄️ Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,cs&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,python,c,cpp,cs&perline=9)](https://skillicons.dev)
 
 
 ### 🗄️ Databases
